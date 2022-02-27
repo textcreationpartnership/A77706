@@ -1,0 +1,518 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quaker-Jesuite, or, Popery in Quakerisme: being a clear discovery 1. That their doctrines, with their proofs and arguments, are fetcht out of the Council of Trent, Bellarmine, and others. 2. That their practises are fetcht out of the rules and practises of popish monks. With a serious admonition to the Quakers, to consider their ways, and return from whence they are fallen. / By William Brownsword, minister of the gospel at Kendal.</title>
+            <author>Brownsword, William, b. 1625 or 6.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77706</idno>
+            <idno type="STC">Wing B5215</idno>
+            <idno type="STC">Thomason E1013_4</idno>
+            <idno type="STC">ESTC R208021</idno>
+            <idno type="EEBO-CITATION">99867027</idno>
+            <idno type="PROQUEST">99867027</idno>
+            <idno type="VID">119317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119317)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quaker-Jesuite, or, Popery in Quakerisme: being a clear discovery 1. That their doctrines, with their proofs and arguments, are fetcht out of the Council of Trent, Bellarmine, and others. 2. That their practises are fetcht out of the rules and practises of popish monks. With a serious admonition to the Quakers, to consider their ways, and return from whence they are fallen. / By William Brownsword, minister of the gospel at Kendal.</title>
+                  <author>Brownsword, William, b. 1625 or 6.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.M. and are to be sold by Miles Harrison, bookseller in Kendal,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 5. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119317:1"/>
+            <pb facs="tcp:119317:1" rendition="simple:additions"/>
+            <p>The Quaker-Jeſuite, OR, Popery in Quakeriſme:</p>
+            <p>Being a clear Diſcovery
+<list>
+                  <item>1. <hi>That their Doctrines, with their Proofs and Arguments, are fetcht out of the Council of</hi> Trent, Bellarmine, <hi>and others.</hi>
+                  </item>
+                  <item>2. <hi>That their Practiſes are fetcht out of the Rules and Practiſes of Popiſh Monks.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>With a ſerious Admonition to the Quakers, to conſider their ways, and return from whence they are fallen.</p>
+            <p>
+               <hi>By</hi> William Brownſword, <hi>Miniſter of the Goſpel at</hi> Kendal.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> and are to be ſold by <hi>Miles Harriſon,</hi> Bookſeller in <hi>Kendal,</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119317:2"/>
+            <pb n="1" facs="tcp:119317:2"/>
+            <head>To all who hold the Truths of Chriſt, and continue in Communion in the Ordinances of Chriſt, within the Town <hi>&amp;c.</hi> of <hi>Kirkby Kendal.</hi>
+            </head>
+            <opener>
+               <salute>Beloved,</salute>
+            </opener>
+            <p>THe reſpect I bear to your Souls, the Truths, and Church of Jeſus Chriſt (much endangered by the ſecret and unwearied actings of the Emiſſaries of <hi>Rome,</hi> inſinuating themſelves, and inſtilling the cor<g ref="char:EOLhyphen"/>rupt Doctrines of that Church into many in this Nation, having the advantage of our lamentable differences, and the toleration of all Sects not profeſſing themſelves openly to be Pa<g ref="char:EOLhyphen"/>piſts, wherein they are ſo wiſe, as to conceal their names, that they may be the more taking in their Doctrines; witneſs the Anabaptiſt Jeſuite at <hi>Newcaſtle,</hi> and the Quaker Jeſuite at <hi>Briſtol,</hi> mentioned by M<hi rend="sup">r</hi> 
+               <hi>Prynne</hi>) occaſioned a late ſerious publique diſſwaſive of you from the Church and Doctrines of <hi>Rome,</hi> under what name ſoever, and by whomſoever they were propounded to you, and eſpecially as they are propounded by the Quakers; who, as they are more active among you then other Sects, ſo do their doctrines and practiſes more har<g ref="char:EOLhyphen"/>monize with <hi>Rome</hi> then others. The charge of falſhood againſt me by them, hath produced this demonſtration of the truth of what I had publiquely aſſerted: which as I hope it will tend to ſettle you againſt their way, ſo may it through God's bleſſing, be a means to fetch back ſome who are ignorantly drawn from us into their ſnares.</p>
+            <p>In order to my attempt, it will be neceſſary to premiſe what is Po<g ref="char:EOLhyphen"/>pery, and what doctrines are Popiſh doctrines. It cannot be denyed but that the Church of <hi>Rome</hi> doth ſtill aſſert and maintain ſome truths, concerning the Trinity, Church, Scriptures, <hi>&amp;c.</hi> which are Catholick, not Popiſh Doctrines; owned not only by them, but all the Reform<g ref="char:EOLhyphen"/>ed Churches, together with the Eaſtern Churches. It is not of theſe that we are ſpeaking, but ſuch as are peculiar to that Church, as apoſta<g ref="char:EOLhyphen"/>tized from its primitive purity, wherein ſhe hath been ſtill oppoſed
+<pb n="2" facs="tcp:119317:3"/>in the Churches Confeſſions of Faith, in learned Proteſtants diſputes, and in the ſufferings of the Martyrs in Q. <hi>Maries</hi> days, and which have had the Sanction of the Councils of the Pope, and the pains and labours of Cardinals, Jeſuites, and Prieſts, for their defence a<g ref="char:EOLhyphen"/>gainſt the Champions of Truth in our Churches. In theſe doctrines which are peculiarly <hi>Romes,</hi> do the doctrines of the Quakers conſpire, and may therefore be called Popery without falſhood:</p>
+            <p>Again, its requiſite to ſhew what practiſes I mean. I ſhall not rake into the common ſins of Papiſts, knowing that there may be found too much profaneſs in any Church or Society, and that therefore theſe common vices cannot denominate a Papiſt: but I ſhall only ſpeak of ſuch practiſes as are by the Reformed Churches charged upon them as theirs, and are peculiar to thoſe Orders amongſt them, which the Reformed Churches are ſtrangers to, I mean, of Monks, Hermites, Nuns, and the like. Theſe things being thus premiſed, I come to my Parallel; and firſt I ſhall parallel their Doctrines, and then their Practiſes.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:119317:3"/>
+            <div type="part">
+               <head>Papiſts affirm,</head>
+               <div n="1" type="section">
+                  <head>1.</head>
+                  <p>THat all men have Grace ſufficient to ſalvation given them; the <hi>Pelagians</hi> before them did aſſert the ſame, as <hi>Bellarmine</hi> ſhews,
+<note place="margin">
+                        <hi>Bellarm.</hi> l. 2. <hi>de Grat.</hi> &amp;c. c. 3. <hi>&amp;</hi> c. 5.</note> and both they and himſelf urge for it, <hi>John</hi> 1.9. which he explaining, ſaith, it muſt be underſtood of the light of Grace, which no man at all doth want. <hi>Bayly</hi> the Jeſuite in his Catechiſme affirms, That Grace is not wanting to any man, but man is wanting to that Grace; that is doth not minde it, obey it; in which he is oppoſed by learned <hi>Rivet.</hi>
+                     <note place="margin">
+                        <hi>Rivet</hi> Cath. Oath. Tract. 4. Qu. 5. <hi>Concil. Trid.</hi> Seſſ. 6. <hi>Can.</hi> 17.</note> The Council of <hi>Trent</hi> ſmites them with an <hi>Anathema,</hi> who ſay, only the Predeſtinate have Grace. And if you would know what the Papiſts mean by this Grace, <hi>Dave<g ref="char:EOLhyphen"/>nant</hi> will inform you, that they mean, That within them which enlightens their minde, checks them from ſin,
+<note place="margin">
+                        <hi>Davenant</hi> Determin. Queſt. 49.</note> and moves them to ſome good actions. In this the Papiſts are oppoſed by the Reformed Churches in their Writings againſt them.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2.</head>
+                  <p>That this is true. The Council of <hi>Trent</hi> ſaith,
+<note place="margin">
+                        <hi>Can il. Trid.</hi> Seſſ. 6. <hi>Can.</hi> 18.</note> if any man ſay that the Commandments of God are im<g ref="char:EOLhyphen"/>poſſible to be obſerved by a juſtified man, who is in the ſtate of Grace, let him be <hi>Anathema.</hi> The Text 1 <hi>John</hi> 3.9. is urged by <hi>Bellarmine,</hi> and he infers,
+<note place="margin">
+                        <hi>Bellarm.</hi> de juſtif. l. 4. c. 11. <hi>Rhem.</hi> An<g ref="char:EOLhyphen"/>notat. in <hi>Luc.</hi> 1.6. <hi>Baily</hi> ubi ſupra.</note> That if he ſin not, then he keeps the Law. The examples of <hi>Noah, Job, Zechariah, Elizabeth,</hi> are urged by the Rhemiſts, <hi>Bellarmine, L. B.</hi> in his <hi>Right Religion evinced,</hi> the Jeſuite <hi>Baily</hi> in his Catechiſme. They all urge, That Precepts and Exhortations to perſection were vain, if men could not be perfect here: That God commands nothing impo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ble to men:
+<note place="margin">
+                        <hi>Bellarm.</hi> l. 2. de juſtif. c. 7.</note> and <hi>Bellarmine</hi> expreſy ſaith, If faith be not perfect in this life, it can never be perfect.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3.</head>
+                  <p>That this is their Churches Doctrine and Truth, <hi>Bellarmine</hi> ſaith,
+<note place="margin">
+                        <hi>Bellarm.</hi> l. 2. de juſtif. c. 15.</note> in this ALL the Catholique Doctors agree, That the righteouſneſs whereby we are juſtified, is a real inherent righteouſneſs within us, and not Chriſt's without us imputed to us; and the words of the Roman Catechiſme,
+<note place="margin">
+                        <hi>Catec. Rom.</hi> Tract. de Bapitſmo</note> made by appointment of the Council of <hi>Trent,</hi> are exceedingly obſervable; which ſaith, The Grace we have is not only that by which God remits ſin,
+<pb n="4" facs="tcp:119317:4"/>but it's a Divine Quality inherent in the ſoul, and (as it were) a certain ſplendour and light, which blots out all the ſpots of the ſoul, and makes it clear and beautiful. So <hi>Baily,</hi> The formal cauſe of our Juſtification, is that righteouſneſs which God creates in us,
+<note place="margin">
+                        <hi>Ba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>y Catec.</hi> c. de juſtif.</note> by which we are renewed in Spirit, and purified from all ſin: And this (ſaith he) dwells in us, and is given unto us freely. And going on,
+<note place="margin">
+                        <hi>Rivet Cath. Orthod.</hi> Tra. 4. Q. 1. &amp; 2.</note> he ſcoffs at <hi>Calvin</hi>'s and the Proteſtants (as the Quakers do) Philoſophy, That ſin doth dwell in our ſouls, yet God imputes unto us the righteouſneſs of his Son, and for that accounts us juſt. His whole anſwer is well worth reading, but too large to be here tranſcribed. The Council of <hi>Trent</hi> decrees, If any man ſay that men are juſtified either by imputation only, or only by re<g ref="char:EOLhyphen"/>miſſion of ſin, excluding Grace and Love, which is ſhed abroad in our hearts by the holy Ghoſt, and is inherent in them; Let him be accurſed. And its worth obſer<g ref="char:EOLhyphen"/>ving, upon what ground they reject imputed righteouſ<g ref="char:EOLhyphen"/>neſs;
+<note place="margin">
+                        <hi>Bellarm.</hi> de juſtif. lib. 2. cap. 7.</note> Take it from <hi>Bellarmine;</hi> If we can prove Faith, Hope and Charity in this life to be perfect, then there will be no need of an imputed righteouſneſs.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4.</head>
+                  <p>The ſame is affirmed by the Papiſts, wherein they are oppoſed by the Proteſtant Churches. <hi>Bellarmine</hi> urgeth divers Texts to prove it,
+<note place="margin">
+                        <hi>Bellarm.</hi> de juſtif. l. 3. c. 14.</note> as <hi>Ezck.</hi> 18. and <hi>Heb.</hi> 6. and divers inſtances, as of <hi>Satan, Saul, Solomon Simon Magus,</hi> and <hi>Judas,</hi> which ſhew (ſaith he) that ſome that were truly good, may ſo fall from their righteouſneſs, that they may be rationally believed to become reprobate. And the Council of <hi>Trent,</hi>
+                     <note place="margin">
+                        <hi>Concil. Trid.</hi> Seſſ. 6. <hi>Can.</hi> 23.</note> If any ſhall ſay, That a man once juſtified cannot fall again, or loſe Grace; and that he that thus falls, was never truly juſtified, let him be Anathema.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>5.</head>
+                  <p>The Papiſts ſay, If a Pagan do what he can, if he uſe the light of Nature aright, or leſs evilly, God will re<g ref="char:EOLhyphen"/>veal to him Chriſt,
+<note place="margin">
+                        <hi>Divenant</hi> Determin. Q. 49 1. <hi>Bellarm.</hi> de Grat. <hi>&amp;</hi> lib. Arb. lib. 1. c. 11.</note> and will give him grace and faith, and all other things neceſſary to ſalvation. <hi>Bellarmine</hi> urgeth it as the Doctrine of the Council of <hi>Trent,</hi> That they that live juſtly and ſoberly, may attain a proficiency; becauſe God leaves not men, till he be left by them. See <hi>Molin. de Elect. ex Fide praeviſa, pag.</hi> 329.</p>
+               </div>
+               <div n="6" type="section">
+                  <pb n="5" facs="tcp:119317:4"/>
+                  <head>6.</head>
+                  <p>The ſame they affirm. See the Citation of <hi>Bellar<g ref="char:EOLhyphen"/>mine</hi> under the fourth head:
+<note place="margin">
+                        <hi>Rivet Cath. Orthod.</hi> Tract. 4. Q 9</note> 
+                     <hi>Rivet</hi> bringeth in theſe denying the abſolute Decree; <hi>Joannes a Bononia, Hic<g ref="char:EOLhyphen"/>ronimus Oſorius, Henricus Gandavenſis, Aureolus,</hi> and other Schoolmen.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>7.</head>
+                  <p>
+                     <hi>Bellarmine</hi> ſaith, The principal end of Scripture,
+<note place="margin">
+                        <hi>Bellarm.</hi> de Verbo De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, l. 4. c. 12.</note> is not to be a Rule of Faith, but by giving us examples, &amp;c. to help us in our pilgrimage; and he ſhews they are not neceſſary.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>8.</head>
+                  <p>The Papiſts affirm the ſame.
+<note place="margin">
+                        <hi>Bellarm.</hi> de Verb. Dei, l. 4 c. 9. <hi>Canus la Com.</hi> l. 3. c. 3. <hi>Greg. de Valent.</hi> A<g ref="char:EOLhyphen"/>nal. Fid. l. l. 5. c. 3.</note> 
+                     <hi>Bellarmine</hi> ſpeaking of Traditions which are no where written, brings in the Baptiſm of Infants as one inſtance; the ſame is charged upon others, and oppoſed by <hi>Dauenant, Willet, Philpot,</hi> and Proteſtants generally, in their vindication of the Sufficiency of Scriptures. M. <hi>Baxter</hi> againſt <hi>Tombs,</hi> pag. 238. brings in our <hi>Whitaker</hi> againſt <hi>Stapleton;</hi> and <hi>Willet</hi> brings in the Churches of <hi>Bohemia, Helve<g ref="char:EOLhyphen"/>tia, England,</hi> to which he might have added others. <hi>Willets Synopſ. Contr.</hi> 12. <hi>Q.</hi> 5.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>9.</head>
+                  <p>The Papiſts ſay; That is is a meer Tradition of the Church. So ſay the <hi>Rhemiſts.
+<note place="margin">
+                           <hi>Rhem.</hi> in Math. 15.9. <hi>Bellarm.</hi> de Verb. Dei, l. 4. c. 7.</note> Bellarmine</hi> pleading for Unwritten Traditions, ſaith of the Lords day, That it is not found commanded in the Scriptures; and doth make it Typical, as the Quakers do. <hi>Bellarm. de cultu Sanct. lib.</hi> 3. <hi>c.</hi> 11.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>10.</head>
+                  <p>The Papiſts are of the ſame judgement.
+<note place="margin">
+                        <hi>Rhem.</hi> in 1 <hi>Cor.</hi> 11 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>v.</hi> 27. on <hi>v.</hi> 24. <hi>iidem</hi> in cap. 10.21.</note> The <hi>Rhemists</hi> call it our profane Bread and Wine; a piece of Bread, and a cup of Wine; nothing but bare Bread and Wine; profane, naked, and natural Elements; void of Sacra<g ref="char:EOLhyphen"/>ment, and all Grace; a vain and deteſtable Table, and indeed a very Sacrifice, or a Table and Cup of Divels, wherein the Divel is properly ſerved, and Chriſt's ho<g ref="char:EOLhyphen"/>nour defiled; and therefore all Catholique men, if they look to have fellowſhip with Chriſt,
+<note place="margin">
+                        <hi>Rhem.</hi> in John 4.20.</note> muſt deem of it as of Idolatry or Superſtition, and abſtain from it, and from all ſoc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ty of the ſame. It's <hi>Calvin</hi>'s Supper,
+<pb n="6" facs="tcp:119317:5"/>and his Bread and Wine is like at length to come to the Sacrifice of <hi>Ceres</hi> and <hi>Bacchus.</hi> All which words I wiſh our Quakers would read, and ſee what the Prote<g ref="char:EOLhyphen"/>ſtants anſwer to them.</p>
+               </div>
+               <div n="11" type="section">
+                  <head>11.</head>
+                  <p>Papiſts ſay the ſame, give our Miniſters as bad lan<g ref="char:EOLhyphen"/>guage: <hi>How</hi> doth <hi>Harding</hi> inveigh againſt Learned <hi>Jewel,</hi>
+                     <note place="margin">
+                        <hi>Willets</hi> firſt pillar of Pa<g ref="char:EOLhyphen"/>piſtry.</note> and the Reformed Miniſtry? Take the Col<g ref="char:EOLhyphen"/>lection of his Invectives by <hi>Willet.</hi> Who ever ſaw ſo impudent a man? What ſhall I ſay to this fellow? Fie for ſhame man, a Miniſter of Fables, a Miniſter of lies; ſo ignorant, ſo witleſs, leud wretches, Jewiſh, heathen<g ref="char:EOLhyphen"/>iſh, ſhameleſs, blaſphemous Villains, falſe Miniſters, falſe Harlots, ye lye falſly, yea ye lye for advantage, ye are impudent lyers, <hi>&amp;c.</hi> You are errant ſlanderers, lyers. How ſeems not this wicked generation to ſpring of the Divel; ye falſly and wickedly lead the people; ye are A<g ref="char:EOLhyphen"/>poſtates, ye are Heretiques, ye are impudent and rebelli<g ref="char:EOLhyphen"/>ous children, your Church is no other but the malignant Church, and Synagogue of Satan; ye are light Preach<g ref="char:EOLhyphen"/>ers, wicked Vow-breakers. leud lecherous Lurdens, de<g ref="char:EOLhyphen"/>teſtable blaſphemers; ſuch is your diveliſh rabble, back<g ref="char:EOLhyphen"/>biters, ſlanderers, accuſers of the Brethren: when were ever ſuch thieves in the Church of God as ye are? Yea <hi>Calvin, Beza,</hi> and <hi>Verone,</hi> are call'd by them Reprobates. What more ordinary then to ask us where our Church was before <hi>Luther?</hi> And do not they allow women to adminiſter Baptiſme, which Chriſt reſerved to his Mi<g ref="char:EOLhyphen"/>niſters as their work, with the preaching of the Goſpel, as the Proteſtant Churches plead, being backt with Scri<g ref="char:EOLhyphen"/>pture, which commands a woman not to ſpeak in the Church.</p>
+               </div>
+               <div n="12" type="section">
+                  <head>12.</head>
+                  <p>They aſſert the ſame. See <hi>Bellarm. lib.</hi> 4. <hi>de Rom. Pontif. cap.</hi> 4.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:119317:3"/>
+               <head>Quakers affirm,</head>
+               <div n="1" type="section">
+                  <head>1.</head>
+                  <p>THat all men have a light within them ſufficient to convince of ſin, and to lead men to repentance and ſalvation, if it be obeyed. This is their Maſter-doctrine, aſſert<g ref="char:EOLhyphen"/>ed in moſt, if not all their books, and in their teachings. For it they urge <hi>Joh.1.9.</hi> They frequently bid men minde the light within them, and ſay, That Chriſt hath lighted eve<g ref="char:EOLhyphen"/>ry man with that light, which is ſufficient. <hi>See</hi> Nailors Sa<g ref="char:EOLhyphen"/>lutation to the Seed of God, <hi>pag. 15, 16.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>2.</head>
+                  <p>That there is a perfecti<g ref="char:EOLhyphen"/>on attainable in this life, whereby they are freed from all ſin, and from the body of death, urging <hi>1 Joh. 3.9.</hi> and the examples of <hi>Noah, Job, Zechary, Elizabeth,</hi> as having attained to this perfection; and telling us, that if we are not perfect in this life, we can never be perfect; and that God requires not of man what he hath not power to do.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3.</head>
+                  <p>That we are justified by a righteouſneſs wrought with<g ref="char:EOLhyphen"/>in us, and by obedience, <hi>Jam. 2.24, 26.</hi> were lately urged by ſome of them for juſtifica<g ref="char:EOLhyphen"/>tion in the ſight of God by o<g ref="char:EOLhyphen"/>bedience. An eminent ſpeaker amongſt them in the hearing
+<pb n="4" facs="tcp:119317:4"/>of multitudes, aſſerted, That that righteouſneſs that was wrought by the power of God in the hearts of the Gentiles, mentioned <hi>Rom. 2.14, 15.</hi> is a righteouſneſs whereby they were juſtified in the ſight of God: And <hi>Nailor</hi> oppoſeth the walking and working of God to that faith the Prote<g ref="char:EOLhyphen"/>ſtants teach, and complains, that now to witneſs good works is counted Popery. <hi>Sal. p, 5.</hi> and the doctrine of faith is the work of the Divel. And <hi>G. Fox p. 12. of Sauls errand,</hi> ſaith, Every believer is born of God, and he that is born of God, is juſtified by Chriſt a<g ref="char:EOLhyphen"/>lone without imputation, this is charged upon them by the Ministers of <hi>Newcaſtle,</hi> called <hi>The perfect Phariſee,</hi> &amp;c.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4.</head>
+                  <p>That the Saints that have true Grace, may fall away fi<g ref="char:EOLhyphen"/>nally, as <hi>Judas</hi> did, who was a godly man, till Chriſt gave him the ſop, and the Divel thereupon entred into him. They urge <hi>Heb. 6. in it.</hi> and <hi>Ezek. 18.</hi> This was affirmed to me by divers of them in diſcourſe, &amp; alſo in a writing of theirs which I have by me.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>5.</head>
+                  <p>That Pagans and Turks living juſtly and honeſtly, may be juſtified and ſaved, this was lately aſſerted by divers of them.</p>
+               </div>
+               <div n="6" type="section">
+                  <pb n="5" facs="tcp:119317:4"/>
+                  <head>6.</head>
+                  <p>That there is no abſolute Decree of Election and Re<g ref="char:EOLhyphen"/>probation from Eternity. See a late Confeſſion of Faith by <hi>Burroughs.</hi>
+                  </p>
+               </div>
+               <div n="7" type="section">
+                  <head>7.</head>
+                  <p>That the Scriptures are not the Rule. <hi>This is charged on them by the Miniſters of</hi> Newcaſtle.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>8.</head>
+                  <p>That the Baptiſm of In<g ref="char:EOLhyphen"/>fants cannot be proved by Scripture.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>9.</head>
+                  <p>That one day of ſeven, which we call the Lords day, is no more then any other day, and that it is without Divine Authority. <hi>See a late Confeſ<g ref="char:EOLhyphen"/>ſion of Faith, by</hi> Burroughs.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>10.</head>
+                  <p>That the Lord's Supper, as adminiſtred in our Churches, is common, nothing but a bit of Bread and Wine: They ſpeak very ſcornfully and con<g ref="char:EOLhyphen"/>temptibly of it.</p>
+               </div>
+               <div n="11" type="section">
+                  <pb n="6" facs="tcp:119317:5"/>
+                  <head>11.</head>
+                  <p>That the Protestant Mi<g ref="char:EOLhyphen"/>nisters are not the Miniſters of Chriſt Jeſus; They uſe the vileſt language they can invent againſt us; deny our Call, ſay we came from <hi>Rome,</hi> Had no Church before <hi>Henry</hi> the eighth, that others may do the work of the Miniſtry as well as we, even women.</p>
+               </div>
+               <div n="12" type="section">
+                  <head>12.</head>
+                  <p>That ſome have the ſame Spirit of infallibility that the Apoſtles had.</p>
+                  <p>Thus I have done with their Doctrine, and come to parallel their Practiſes; and ſhall reduce them to ten heads, and trace them by the rules and practiſes of Popiſh Monks, in whoſe Diſcipline our new Monks ſeem to be admirably inſtructed, as will plainly appear by the following Parallel.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:119317:5"/>
+               <head>Monks practiſes.</head>
+               <div n="1" type="section">
+                  <head>1.</head>
+                  <p>The Monks did the ſame, according to the Rules of their Orders:
+<note place="margin">
+                        <hi>Caſſian</hi> de Inſtit. Mo<g ref="char:EOLhyphen"/>nach. l. 1. c. 5</note> It's evident (ſaith <hi>Caſſian</hi>) that thoſe poor Hermites are admirers of poverty, in that their auſtere life could not uſe any other then plain and mean apparel; and in imitation of the Ninivites and <hi>John Baptiſt,</hi> they uſed ſackcloth, ſaith <hi>Gazeus;</hi>
+                     <note place="margin">
+                        <hi>Gaz.</hi> in <hi>Caſ.</hi> 14. c. 5 <hi>Caſs.</hi> l. 1. c. 2</note> and this was according to the Orders given them. Thus Saint <hi>Bennet</hi> in the Rules of his Order gives direction, that their habit be vile, and not coſtly; Let the Monks gar<g ref="char:EOLhyphen"/>ment be only ſuch as covers the body, and hides the nakedneſs, and keeps out cold, without vain trimmings. The Council of <hi>Trent</hi> alſo appoints,
+<note place="margin">
+                        <hi>Gaz</hi> in <hi>Caſſ.</hi> de Inſtit.</note> That theſe Regu<g ref="char:EOLhyphen"/>lars ſhall have ſuch apparel as is ſutable to a ſtate of po<g ref="char:EOLhyphen"/>verty they profeſs;
+<note place="margin">
+                        <hi>Caſſ.</hi> de Inſt. l 4. c. 5</note> and that there be nothing in them ſuperfluous; and it's directed and enjoyned concerning thoſe who are admitted into their Society, that when they are received, they muſt caſt off their former apparel, and put on ſuch plain apparel as is ſutable to the Order, that they may evidence, that having laid away all worldly pride, they have now embraced the poverty of Jeſus Chriſt:
+<note place="margin">
+                        <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ony. Areo.</hi> Eccleſ. Hie<g ref="char:EOLhyphen"/>rarch. l. 6</note> And the counterfeit <hi>Dionyſius</hi> gives this rea<g ref="char:EOLhyphen"/>ſon of the change; it ſignifies (ſaith he) our removal from the common li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of worldly men, unto perfection. I might tell you of <hi>Francis Borgias</hi> General of the Je<g ref="char:EOLhyphen"/>ſuites,
+<note place="margin">
+                        <hi>Schot.</hi> l. 2. de vit. <hi>Borg</hi>
+                     </note> who (to ſhew his humility) when as whole and new Breeches were offered to him, he rather choſe to wear his own, which were patcht and torn. This is reported by a Jeſuite in his commendation.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2.</head>
+                  <p>So did the Monks.
+<note place="margin">
+                        <hi>Caſſ.</hi> de In<g ref="char:EOLhyphen"/>ſtit. l. 2. c. 10</note> When they are about their So<g ref="char:EOLhyphen"/>lemnity, there is ſo much ſilence amongſt them, that unleſs it be one that ſtands up, though there be a multi<g ref="char:EOLhyphen"/>tude, you would think there were none at all; and fur<g ref="char:EOLhyphen"/>ther, when they ſit at meat,
+<note place="margin">
+                        <hi>Caſſ.</hi> &amp; <hi>Gaz.</hi> Inſtit. l. 4. c. 17</note> this Diſcipline of Silence is ſtrictly obſerved, and they ſit ſo covered, that they ſee nothing but the meat they have before them; and if they want any thing, ſpeak not, but make a mummering noiſe; and this was according to Saint <hi>Bennets</hi> Rule, who ſaith, Let there be a deep ſilence at meat; Which Rule was confirmed by Pope <hi>Innocent</hi> 3. and directions given for the ſpecial times or places of this ſilence; a<g ref="char:EOLhyphen"/>mongſt which, meal-time was one: And all this was in order to the attainment of Divine knowledge. Thus
+<pb n="8" facs="tcp:119317:6"/>the Abbot in <hi>Caſſian;</hi>
+                     <note place="margin">
+                        <hi>Caſſ</hi> Collat. 14. c. 9</note> Let this (ſaith he) be firſt ob<g ref="char:EOLhyphen"/>ſerved in order to Divine knowledge, that thou impoſe a deep ſilence upon thy mouth, for this is the firſt en<g ref="char:EOLhyphen"/>trance into knowledge. And <hi>de Turrecremata</hi> gives ten reaſons of it, which are mentioned by <hi>Gazeus</hi> in his Comment. See <hi>Azor. Inſtit. Moral. lib.</hi> 12. <hi>c.</hi> 19. <hi>Q.</hi> 1.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>3.</head>
+                  <p>So did the Monks.
+<note place="margin">
+                        <hi>Willets</hi> Syn. Papiſ. p. 351</note> 
+                     <hi>Moſes</hi> a certain Abbot did ſo af<g ref="char:EOLhyphen"/>flict his body with faſting and watching, that for two or three days together (many times) he had no appetite at all to his meat, neither could ſleep. Saint <hi>Bennet</hi> gives this in his rules, That the Fraternity ſhall keep up the cuſtom of Faſting, in which they were oft times extra<g ref="char:EOLhyphen"/>ordinary.
+<note place="margin">
+                        <hi>Hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r. Porter</hi> in vit. <hi>Gedr.</hi> p. 477.</note> 
+                     <hi>Godrick</hi> the Hermit ſometime would have continued faſting for the ſpace of three whole days toge<g ref="char:EOLhyphen"/>ther, and ſomtimes more.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4.</head>
+                  <p>
+                     <hi>Ignatius Loyola,</hi>
+                     <note place="margin">
+                        <hi>Ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>idin.</hi> Jeſ. de vita <hi>Ignatii,</hi> l. 3 c. 2.</note> the grand father of the Jeſuites, and the Founder of their Order, uſed to go ſomtimes naked, beſmeared with filth, making himſelf a ſcoff to the be<g ref="char:EOLhyphen"/>holders, as is reported of him by a Jeſuite. For the ob<g ref="char:EOLhyphen"/>tainment of tranquility of minde, (ſaith the Abbot in <hi>Caſſian</hi>) we muſt uſe faſting,
+<note place="margin">
+                        <hi>Caſſ. Collat.</hi> 1. c. 7</note> watching, and nakedneſs of the body; and he tells us That divers came to Ab<g ref="char:EOLhyphen"/>bot <hi>Anthony,</hi>
+                     <note place="margin">
+                        <hi>Coll.</hi> 2. c. 2</note> to enquire how to attain perfection; and in diſcourſe, ſome preſcribed faſting; and others placed it in nakedneſs. Sutably to thoſe Jeſuites who make that practiſe of <hi>Loyola</hi> a choice and ſingular example of perfection:
+<note place="margin">
+                        <hi>Caſſ.</hi> Inſtit. 1. 7. c. 25</note> So in the ſame <hi>Caſſian</hi> it is ſaid, The Reins of Deſire cannot be moderated and ruled but by the ver<g ref="char:EOLhyphen"/>tue of Nakedneſs. Hence is that paradox, A Naked Monk is Lord of the whole world.
+<note place="margin">
+                        <hi>Willets</hi> Syn. Pap. p. 351</note> It was the practiſe of the Monks called <hi>Flagellantes,</hi> that they went bare<g ref="char:EOLhyphen"/>foot in linnen ſhirts: And thus in the lives of Engliſh Saints, we read of divers going naked, as to ſome parts of their bodies, if not wholly naked.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>5.</head>
+                  <p>
+                     <hi>Caſſian</hi> tells,
+<note place="margin">
+                        <hi>Caſs. Collat.</hi> 18. c. 5.</note> That becauſe of their diſclaiming their Parents, therefore they were called Monks. Abbot <hi>A<g ref="char:EOLhyphen"/>braham</hi> preſſes a mortification of affections, eſpecially towards parents and kinsfolk; and <hi>Johannes Bu<g ref="char:EOLhyphen"/>zeus</hi> the Jeſuite, ſhews at large of this kinde of mortifi<g ref="char:EOLhyphen"/>cation:
+<pb n="9" facs="tcp:119317:6"/>And <hi>Gazeus</hi> urgeth the example of <hi>Mechetes</hi> the Monk,
+<note place="margin">
+                        <hi>Caz.</hi> in <hi>Caſſ. C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll.</hi> 24. c. 2</note> who having received Letters from his friends, did not only refuſe to read and anſwer them, but imme<g ref="char:EOLhyphen"/>diately burnt them.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>6.</head>
+                  <p>So did the Monks. Others were but Seducets, men of the world; they are ſo frequently called Perfect in <hi>Caſſian,</hi> that I ſhall not mention any place, only if any deſire to know how its perfection, and what kinde of per<g ref="char:EOLhyphen"/>fection, See <hi>Coll.</hi> 1. <hi>c.</hi> 7. <hi>Gaz. Annot.</hi>
+                  </p>
+               </div>
+               <div n="7" type="section">
+                  <head>7.</head>
+                  <p>Monks and Nuns do the ſame. See abundance of their Viſions and Revelations in their lives,
+<note place="margin">
+                        <hi>Hierom For<g ref="char:EOLhyphen"/>ter</hi> in life of Engl. Saints p. 363.</note> written by <hi>Hierom Porter,</hi> and in the Golden Legend: As alſo their being whipt, beaten for not hearkning to the mo<g ref="char:EOLhyphen"/>tions they had; particularly ſee this in the life of <hi>El<g ref="char:EOLhyphen"/>phegus,</hi> a Benedictive Monk, and in the life of <hi>Dunſtan,</hi>
+                     <note place="margin">Life of <hi>Dunſtan,</hi> p. 461.</note> where one not carrying towards him as was expected, was ſtruck with an horrible trembling over all his limbs. A young Monk bellowed out fearful exclamations, dreadfully fuming and foaming at the mouth. But the Stories are many, and too long to tranſcribe.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>8.</head>
+                  <p>So did the Monks.
+<note place="margin">
+                        <hi>Caſſ. Conſul.</hi> A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t. 25. in fine.</note> 
+                     <hi>Caſſander</hi> makes a ſad complaint of them, that they had turned Religion into a meer out<g ref="char:EOLhyphen"/>ward ſhew, without ſubſtance; and that theſe outward formalities have ſo much eaten Religion out of many of them, that there is hardly to be found any where men of more licentiouſneſs and wantonneſs then they are.
+<note place="margin">
+                        <hi>Caſſ. Coll.</hi> 4. c. 20. &amp; 21. with <hi>Gaz.</hi> Annot.</note> So that as <hi>Caſſian</hi> and <hi>Gazeus</hi> ſhew, though they changed their habit, yet they retained their manners.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>9.</head>
+                  <p>The Monks did ſo. Their way was a profeſſion of poverty, contempt of the world they inveighed againſt mens purſuit after the world, and the love of it yet made the Profeſſion of it a means unto higher preforment; herein ſeigning himſelf dead with the Fox,
+<note place="margin">
+                        <hi>Mort.</hi> Prot. App. p. 591.</note> that hereby he may more eaſily catch the pity; as Biſhop <hi>Morton</hi>
+                     <pb n="10" facs="tcp:119317:7"/>ſpeaks. I have ſomtimes ſmil'd in comparing our Qua<g ref="char:EOLhyphen"/>king Teachers and the Mendicant Friers, to ſee how they imitate one the other. Theſe Mendicants were not to have Lands, or Glebes, or Tythes, for theſe (ſaith <hi>Azo<g ref="char:EOLhyphen"/>rius</hi>) were Mendicants,
+<note place="margin">
+                        <hi>Azor.</hi> Inſt. Mon. l. 12. c. 23.</note> who were maintained by uncer<g ref="char:EOLhyphen"/>tain beggery: How then got they wealth? I ſhall ſhew this by ſome queſtions and anſwers out of the ſaid <hi>Azo<g ref="char:EOLhyphen"/>rius;</hi> Might they not have poſſeſſions? Yes, If the Pope would but tacitely conſent to it; <hi>i.e.</hi> permit it, their Conſciences would allow it. But were not theſe to beg from door to door for what they had? <hi>Azorius</hi> ſaith, No; It's enough if they live of what is put in their po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kets, or begg'd for them by others. But if Eſtates be left them, may they not poſſeſs them? <hi>Azorius</hi> ſaith No; they cannot keep them: but they may ſell them, and keep the money. But how can the poor <hi>Franciſcans</hi> do, who are tyed by their Order not ſo much as to touch, much leſs to receive money either by themſelves or o<g ref="char:EOLhyphen"/>thers. <hi>Azorius</hi> again anſwers, The Pope ſaith they may not have them to keep in their own hands, but another may keep their moneys; yet not in their name, but in the name of thoſe who gave it for them. Notable ſub<g ref="char:EOLhyphen"/>tilty, and learned exactly by our Engliſh Monks, who have their ſtock of money, as the Jeſuites in <hi>England</hi> have theirs, for the maintenance of both their Popiſh Prieſts.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>10.</head>
+                  <p>The Monks (ſaith <hi>Gazeus</hi>) many of them, through their ignorance and ſimplicity being drawn, and through the Sophiſtry of Heretiques and Philoſophers ſeduced, fell into grievous errors, and drew others into them, cau<g ref="char:EOLhyphen"/>ſed great confuſions in the Church, and ſad Tragedies. From whom ſprang the <hi>Euchaitae, Originiſtae, Euſtathi<g ref="char:EOLhyphen"/>ani, Maſſaliani, Anthropomorphitae, Joviniani, Euti<g ref="char:EOLhyphen"/>chiani, Severiani,</hi> and many others, whoſe doctrines are ſome of them to be found amongſt our Engliſh Monks.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:119317:5"/>
+               <head>Quakers practiſes.</head>
+               <div n="1" type="section">
+                  <head>1.</head>
+                  <p>They lay much ſtreſs upon Mean and plain Apparel.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2.</head>
+                  <p>They practiſed <hi>Silence,</hi> eſpe<g ref="char:EOLhyphen"/>cially at ſome times, and laid much of their Religion upon it.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="8" facs="tcp:119317:6"/>
+                  <head>3.</head>
+                  <p>They practiſe faſting much in their entrance upon this way, and afterwards as a ſpecial means of ſpiritual knowledge, &amp;c. <hi>James Par<g ref="char:EOLhyphen"/>nel</hi> in <hi>Colcheſter</hi> Goal.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>4.</head>
+                  <p>They run up and down <hi>Na<g ref="char:EOLhyphen"/>ked,</hi> though not conſtantly, yet at ſome times.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>5.</head>
+                  <p>They caſt off reſpect due to their Parents and Relations: witneſs the complaints I have had of ſome of their pa<g ref="char:EOLhyphen"/>rents againſt them. One told
+<pb n="9" facs="tcp:119317:6"/>Mr. <hi>W.</hi> of this Town, that he came to him to diſclaim that Brotherly relation he once had to him.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>6.</head>
+                  <p>They aſcribe great perfecti<g ref="char:EOLhyphen"/>on to themſelves in their way, calling all others, The men of the world, carnal, and fleſhly, but they themſelves are perfect.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>7.</head>
+                  <p>Quakers lay claim to Vi<g ref="char:EOLhyphen"/>ſions and Revelations, boaſt of more inward ſpiritual diſ<g ref="char:EOLhyphen"/>coveries then other men. A Letter was ſent to M. <hi>Ar.</hi> re<g ref="char:EOLhyphen"/>porting a Viſion from one of them: Are ſometimes grie<g ref="char:EOLhyphen"/>vouſly dealt with by evil ſpi<g ref="char:EOLhyphen"/>rits, witneſs <hi>John Gilpin,</hi> and <hi>George Baily,</hi> the later of whom retains to this day, ſome of that Satanical abuſe while he was a Quaker.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>8.</head>
+                  <p>They place their Religion in meer circumſtances and formalities leaving off Hat<g ref="char:EOLhyphen"/>bands, Ribands, Lace, keeping on the Hat, Thouing perſons, <hi>&amp;c.</hi> but are wanting in the eſteem of the true practiſe of Religion.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>9.</head>
+                  <p>They carry a ſhew of ſelf<g ref="char:EOLhyphen"/>denyal, abnegation of the world contempt of riches, in<g ref="char:EOLhyphen"/>veigh againſt the Miniſters of Christ for having mainte<g ref="char:EOLhyphen"/>nance, as if themſelves and
+<pb n="10" facs="tcp:119317:7"/>their Teachers had nothing yet thrive faſt, pay their debts make Purchaſes, get good E<g ref="char:EOLhyphen"/>states, wear of late rich clothes, ride on high prized Horſes, who before were mean enough to hold anothers ſtir<g ref="char:EOLhyphen"/>rop; and have their ſtocks of monies, out of which they re<g ref="char:EOLhyphen"/>ceive (when they have a mind to travel, which I ſuppoſe they do when they want or would have money) ſomtimes great and large ſums.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>10.</head>
+                  <p>They are a ſeduced people, &amp; active in ſeducing others, being ignorant, unlearned, yet an importunate unwearied people, compaſſing ſea and land to make a proſelyte, yet not for themſelves, but for thoſe Sc<g ref="char:EOLhyphen"/>phiſters of <hi>Rome,</hi> whoſe Fa<g ref="char:EOLhyphen"/>ctors they are.</p>
+                  <p>I have now (I hope) made it evident, that the hand of a Jeſuite is in the Quakers Religion: How could they elſe be ſo well verſed in their moſt abſurd Doctrines? How could they anſwer ſo exactly their Monkiſh Rules and Practiſes? They could not learn them without a Teacher.</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <pb n="11" facs="tcp:119317:7"/>
+               <p>I will conclude with a re-inforcement of my Diſſwaſive of you from their Doctrines and Practiſes. They are from Antichriſt, there<g ref="char:EOLhyphen"/>fore avoid them. This it ſelf will (I hope) prevail with you; yet I ſhall add a few conſiderable Reaſons to it, to imprint a deeper hatred in you againſt their way.</p>
+               <p n="1">1. <hi>They are miſerably divided amongſt themſelves about their Principles; differing not only one from other, but from himſelf. On the thirteenth day of this moneth, five of them coming to me, aſſerted;</hi> 1. <hi>That the Scriptures were not Gods Word, nor a Rule.</hi> 2. <hi>That all men have a light within them, which if they be obedient to, is ſuffici<g ref="char:EOLhyphen"/>ent to convince of ſin, and bring men to ſalvation.</hi> 3. <hi>That there is no Election from Eternity.</hi> 4. <hi>That we are juſtified by obedience.</hi> 5. <hi>That Turks and Pagans living juſtly and honeſtly, may be juſtifi<g ref="char:EOLhyphen"/>ed and ſaved.</hi> 6. <hi>That God requires no more of man then he hath power to perform.</hi> 7. <hi>That man may in this life attain to perfection.</hi> 8. <hi>That the Saints may fall away finally from Grace.</hi> 9. <hi>That they have the ſame Spirit of infallibility with the Apoſtles.</hi> 10. <hi>That the Baptiſm of Infants is not in Scripture. In a Paper ſent me this week, the third, fourth, and eighth are expreſly denyed; others of them neither owned nor diſclaimed: In a Conference on Tueſday laſt, the fourth was again owned with advantage, and this contradiction ut<g ref="char:EOLhyphen"/>tered by one of them, That every man is not ſpiritually enlightned with the knowledge of God; yet that every man is lighted with true light, which (ſay they) is Chriſt.</hi>
+               </p>
+               <p n="2">2. <hi>Thoſe Doctrines they broach with confidence amongſt their ſilly credulous followers, they will not, dare not own before others; you are many of you witneſſes, that at our Conference, they would not aſsert that all men have a light within them ſufficient</hi> &amp;c. <hi>though they were much urged to declare it, if they believed it true; and all of you know they affirm it in private.</hi>
+               </p>
+               <p n="3">3. <hi>They are not only oppoſers of ſome Miniſters (againſt whoſe Do<g ref="char:EOLhyphen"/>ctrine or lives they have yet no exception) but of all the Proteſtant Churches, and the very Proteſtant cauſe; ſo that what hath been vain<g ref="char:EOLhyphen"/>ly attempted by Antichriſt, is their very deſigne; which if accom<g ref="char:EOLhyphen"/>pliſh'd, do but think how the Papiſts would rejoyce in it, and what ad<g ref="char:EOLhyphen"/>vantage that Church would have by it.</hi>
+               </p>
+               <p n="4">4. <hi>They never yet (that I have heard of) did oppoſe any of thoſe Fun<g ref="char:EOLhyphen"/>damental
+<pb n="12" facs="tcp:119317:8"/>Truths we have preached to you, ſo as to tell us, that in this, or the other point we taught you falſe; but have been forced ſomtimes to confeſs, that what we Preach is Truth. And therefore ſtick to the Truths and Churches of Chriſt, and be not drawn away from your ſtedfaſtneſs.</hi>
+               </p>
+               <closer>
+                  <signed>Your Paſtor, deſirous of your eternal happineſs, <hi>W. B.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <head>An <hi>Epilogue</hi> to the Quakers.</head>
+            <p>ANd now friends, conſider what you are doing; God hath in his juſt judgement, for your want of love to his Truth, blinded you; and before you are aware, you are in the midſt of <hi>Samaria,</hi> amongſt the golden Calves, and the Idolatrous Prieſts of Antichriſt. Should I have told ſome of you before your Apoſtaſie, that your ſhould trample under foot all the Reformed Churches, Miniſtry, Sacraments, make vain and frivolous, if not finful, the blood of the Martyrs, throw dirt in the faces of thoſe never to be forgotten Worthies of our own, <hi>Whitaker, Reynolds, Perkins, Willet, Morton, Hall, White,</hi> with many others, who have done excellently againſt the Papiſts, and laſt<g ref="char:EOLhyphen"/>ly, ſhould become the Popes very Pedlars, to ſell off his corrupteſt wares at ſtalls, which would never off in ſhops, and to play Moun<g ref="char:EOLhyphen"/>tebank Monkiſh tricks on every ſtage, to get the freer vent for thoſe corrupt Doctrines, that began to ſtick on his hands; Would you not have ſaid, Are your ſervants dogs, that we ſhould do theſe things? Yet ſee (and you cannot but ſee that) you are doing them. I hope ſome of you do theſe things ignorantly, and upon this clear diſcovery, will ſay you will return to your old husband, for then it was better with you then now: Shame to be the Popes Pedlers, Mountebanks, Drudges, and return to that liberty wherewith Chriſt had made both you and this Nation free from them. I have been very ſparing in re<g ref="char:EOLhyphen"/>porting your practiſes, that ſo I might not ſhame or exaſperate you,
+<pb n="13" facs="tcp:119317:8"/>but win you, which is my main deſire in this ſmall Tract: You know I might have filled up ſheets with ſtories of your nakedneſs, faſtings, viſions, impulſes to ſtrange actions, and your bodily troubles when you have not obeyed them; but I had rather you would improve the thoughts of them to your own ſouls good, then that the world ſhould have them to make ſport with to your diſgrace, eſpecially do you of this place conſider of theſe things, and ſuch of you as have been for<g ref="char:EOLhyphen"/>mer Profeſſors, look back to your profeſſion; you have gone too far from it, go no further; your Apoſtaſie hath been the grief of ma<g ref="char:EOLhyphen"/>ny, your returning will be their joy, and no trouble of heart to you, when you ſee your ſelves as loſt ſheep, returned home again to your own fold, or rather the fold of Jeſus Chriſt, to whom I leave the per<g ref="char:EOLhyphen"/>ſwading of your hearts, according to the earneſt deſire of</p>
+            <closer>
+               <signed>Your real friend, deſirous to tell you the Truth, though accounted your enemy for it, <hi>W. B.</hi>
+               </signed>
+               <dateline>
+                  <date>Nov. 26. 1659.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119317:7"/>
+            <pb facs="tcp:119317:8"/>
+            <pb facs="tcp:119317:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
